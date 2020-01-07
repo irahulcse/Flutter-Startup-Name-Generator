@@ -1,6 +1,10 @@
-# app1
+# Flutter Startup Name Generator
+This applications based upon the enhancing the knowledge about the Stateless and Stateful Widget in different scenarios.
 
-A new Flutter project.
+## Working
+![alt text](https://github.com/irahulcse/Flutter-Startup-Name-Generator/blob/master/assets/Screenshot%20from%202020-01-07%2008-41-39.png)
+
+![alt text](https://github.com/irahulcse/Flutter-Startup-Name-Generator/blob/master/assets/Screenshot%20from%202020-01-07%2008-42-21.png)
 
 ## Getting Started
 
